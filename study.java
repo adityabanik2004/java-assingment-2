@@ -90,7 +90,7 @@ class Relationship {   // Establishes relation between Teacher and Student class
         setTeacherDetails(tea, "Amitava", "OOPS DESIGN", 10);  
 
         Student stud1 = new Student();
-        setStudentDetails(stud1, "Ankan", "Java", "UEM");  
+        setStudentDetails(stud1, "Aditya", "Java", "SNU");  
 
         Student stud2 = new Student();
         setStudentDetails(stud2, "Madhu", "Btech", "UEM");  
