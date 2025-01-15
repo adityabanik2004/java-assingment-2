@@ -53,7 +53,7 @@ class Employee {
     public static void main(String[] args) {
         Employee emp = new Employee();
         
-        emp.setEmployeeDetails("Ankan", "Developer", "ank@ibm.com", 5000);
+        emp.setEmployeeDetails("Aditya", "Developer", "aditya@ibm.com", 5000);
         
         // Display employee details
         emp.displayEmployeeDetails();
